@@ -7,6 +7,8 @@ git clone --recursive [repository]
 
 Usage
 -----
+Im too lazy to add documentation atm...
+If you are good with C, you may just take a look at the source code.
 
 License
 -------
