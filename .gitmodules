@@ -1,0 +1,12 @@
+[submodule "list"]
+	path = list
+	url = https://github.com/ibmicroapple/list
+	branch = master
+[submodule "dstring"]
+	path = dstring
+	url = https://github.com/ibmicroapple/dstring
+	branch = master
+[submodule "http"]
+	path = http
+	url = https://github.com/ibmicroapple/http
+	branch = master
