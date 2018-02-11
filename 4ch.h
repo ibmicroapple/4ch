@@ -107,8 +107,6 @@ enum
 	URLF_REPLIES
 };
 
-int init_4ch();
-void exit_4ch();
 List *get_threads(const char *board);
 void free_threads(List *threads);
 List *get_catalog(const char *board);
