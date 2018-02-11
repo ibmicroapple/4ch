@@ -152,7 +152,7 @@ int main(int argc, char *argv[])
 
 /*	ticker(argv[1]); */
 
-/*	show_catalog(argv[1]); */
+	show_catalog(argv[1]);
 
 	if(chdir(argv[2]) == -1)
 	{
